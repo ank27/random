@@ -1,0 +1,51 @@
+.App {
+  padding: 40px 100px 40px 100px;
+}
+
+.name {
+  text-align: center;
+}
+
+.sec {
+  padding-top: 25px;
+}
+
+.indent {
+  padding-left: 20px;
+}
+
+.para0 {
+  margin-bottom: 0px;
+}
+
+.with-date { 
+  display: flex;
+  justify-content: space-between;
+  font-size: 18px;
+}
+
+.title {
+  font-weight: bold;
+}
+
+.italic {
+  font-weight: normal;
+  font-style: italic;
+}
+
+.proj-list {
+  list-style: none;
+}
+
+.work-list {
+  
+}
+
+.skill {
+  display: flex;
+  flex-direction: row;
+}
+
+.skill .title {
+  width: 300px;
+}
